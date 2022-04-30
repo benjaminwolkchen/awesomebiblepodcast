@@ -1,4 +1,4 @@
-# awesomebiblepodcast
+# awesomeBible Podcasts
 ## Wo findet man ihn? 👁
 - [Castopod](https://pod.awesomebible.de/@cast)
 - [RSS-Feed](https://pod.awesomebible.de/@cast/feed.xml)
